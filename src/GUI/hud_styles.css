@@ -1,0 +1,31 @@
+.content1 {
+  padding: 15px;
+  opacity: 0.75;
+  position: absolute;
+  z-index: 1;
+}
+
+.content1 span {
+  width: 100%;
+  text-align: left;
+  float: left;
+  margin-bottom: 5px;
+}
+
+.content1 a.me {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+}
+
+.content1 a {
+  color: #50dcab;
+  text-decoration: none;
+  background-color: red;
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+  float: left;
+  margin-right: 75%;
+  margin-bottom: 5px;
+}
